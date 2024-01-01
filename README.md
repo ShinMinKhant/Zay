@@ -16,5 +16,19 @@ As an administrator, you can easily add product categories to the system. The se
 
 ![Screenshot (4)](https://github.com/ShinMinKhant/Zay/assets/133580286/001c236f-11c2-4b90-93f5-b8769fc3a30e)
 
+3. Dashboard Page
+
+![Screenshot (5)](https://github.com/ShinMinKhant/Zay/assets/133580286/a8497c18-eebb-4150-b351-83948ad42d7b)
+
+4. Browse Page
+
+![Screenshot (6)](https://github.com/ShinMinKhant/Zay/assets/133580286/6a8f9973-8364-416e-bcf3-03b0abd9ccd3)
+
+5. Inbox Page
+
+![Screenshot (8)](https://github.com/ShinMinKhant/Zay/assets/133580286/4cb4b1b5-d440-47be-bfdc-af3b084872ef)
+
+
+
 
 
