@@ -12,5 +12,9 @@ As an administrator, you can easily add product categories to the system. The se
 
 ![Screenshot (2)](https://github.com/ShinMinKhant/Zay/assets/133580286/f89c6b74-1827-43bd-a29a-dc38f8e785fc)
 
+2. Add Item Page
+
+![Screenshot (4)](https://github.com/ShinMinKhant/Zay/assets/133580286/001c236f-11c2-4b90-93f5-b8769fc3a30e)
+
 
 
