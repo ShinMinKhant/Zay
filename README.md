@@ -8,7 +8,8 @@ As an administrator, you can easily add product categories to the system. The se
 
 # Demo Images
 
-Login Page
+1. Login Page
+
 ![Screenshot (2)](https://github.com/ShinMinKhant/Zay/assets/133580286/f89c6b74-1827-43bd-a29a-dc38f8e785fc)
 
 
