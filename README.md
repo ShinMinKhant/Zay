@@ -1,6 +1,6 @@
 # Zay
 
-Multi-Vendor E-Commerce Website using Django
+Multi-Vendor E-Commerce Website using Django (University Group Project)
 
 # Project Architecture
 
