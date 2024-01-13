@@ -2,6 +2,8 @@
 
 Multi-Vendor E-Commerce Website using Django (University Group Project)
 
+I took charge of managing the Django administrative panel and implemented the user authentication module. Additionally, I successfully migrated the database from SQLite to PostgreSQL and facilitated the hosting of the website on Render. In terms of code refinement, I focused on optimizing how items are displayed.
+
 # Project Architecture
 
 As an administrator, you can easily add product categories to the system. The seller can register himself in the system and after login, he is able to add/edit/delete his products. Basically, Multiple Sellers can add their multiple products to the system. And they will be able to search the products by typing keywords or selecting the category. Delivery and payment go through chat system at the moment.
